@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ReactDragDrop_ToDo/static/js/main.c388e7e8.js",
+    "main.js": "/ReactDragDrop_ToDo/static/js/main.598a16ad.js",
     "index.html": "/ReactDragDrop_ToDo/index.html",
-    "main.c388e7e8.js.map": "/ReactDragDrop_ToDo/static/js/main.c388e7e8.js.map"
+    "main.598a16ad.js.map": "/ReactDragDrop_ToDo/static/js/main.598a16ad.js.map"
   },
   "entrypoints": [
-    "static/js/main.c388e7e8.js"
+    "static/js/main.598a16ad.js"
   ]
 }
